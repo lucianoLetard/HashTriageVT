@@ -203,7 +203,7 @@ sudo pacman -S pinentry
 Clone the repository from GitHub and enter its directory:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/lucianoLetard/HashTriageVT
 cd HashTriageVT
 ```
 
