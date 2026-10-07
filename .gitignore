@@ -1,0 +1,26 @@
+# Archivos con datos sensibles
+*.txt
+HashTriageVT_*.txt
+api.key.gpg
+.config/hashtriagevt/
+*.log
+*.key
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
