@@ -736,6 +736,4 @@ Cybersecurity student and developer focused on defensive security, Linux, SOC to
 
 ## License
 
-No license has been specified for this project yet.
-
-If the repository is going to be distributed as open-source software, add an appropriate license file and update this section.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
