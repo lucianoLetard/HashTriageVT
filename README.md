@@ -373,7 +373,7 @@ The program does not attempt to bypass the rate limit.
 
 ## Report generation
 
-After the VirusTotal query, HashTriageVT builds a human-readable report.
+After the VirusTotal query, HashTriageVT builds a readable report.
 
 The report includes:
 
