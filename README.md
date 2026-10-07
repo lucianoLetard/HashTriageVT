@@ -52,7 +52,7 @@ The project was developed and tested with **CachyOS**, using the `pacman` packag
 - Detection statistics extraction
 - Detection-engine reporting
 - Known file-name extraction from VirusTotal
-- Human-readable text reports
+- Readable text report
 - Timestamped report filenames
 - Interactive terminal interface
 - Designed for CachyOS / Arch Linux environments
