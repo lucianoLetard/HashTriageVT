@@ -728,7 +728,7 @@ The tool does not guarantee that a file is safe or malicious based solely on Vir
 
 ## Author
 
-**Luciano Letard**
+**`Luciano Letard`**
 
 Cybersecurity student and developer focused on defensive security, Linux, SOC tooling, and practical security automation.
 
