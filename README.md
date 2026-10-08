@@ -651,29 +651,6 @@ The tool respects the response returned by VirusTotal, including HTTP `429` rate
 
 ---
 
-## Limitations
-
-HashTriageVT intentionally focuses on **initial triage**.
-
-It does not currently perform:
-
-- Dynamic malware execution or sandboxing
-- Static PE/ELF reverse engineering
-- YARA scanning
-- Strings extraction
-- Entropy analysis
-- Process monitoring
-- Network behavior analysis
-- Persistence analysis
-- Full forensic acquisition
-- Automatic quarantine
-- Automatic file deletion
-- Uploading the file to VirusTotal
-
-Its purpose is to provide a quick, low-overhead reputation lookup based on a file's SHA-256.
-
----
-
 ## Privacy considerations
 
 The analyzed file remains local during the hashing stage.
