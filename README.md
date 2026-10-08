@@ -703,7 +703,7 @@ HashTriageVT is currently a functional first release focused on automated hash-b
 
 ## Future improvements
 
-Possible future versions could add:
+Improvements I will implement in the future:
 
 - Command-line arguments
 - Batch directory analysis
@@ -720,7 +720,7 @@ Possible future versions could add:
 
 ## Disclaimer
 
-HashTriageVT is intended for **defensive security analysis, incident triage, research, and educational purposes**.
+HashTriageVT is intended for **defensive security analysis, incident triage and research**.
 
 The tool does not guarantee that a file is safe or malicious based solely on VirusTotal results. Analysis results should be interpreted in context and, when necessary, followed by additional static or dynamic analysis.
 
